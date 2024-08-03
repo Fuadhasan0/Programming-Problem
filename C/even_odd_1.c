@@ -1,9 +1,3 @@
-/*
-Problem is ~
-
-       Firstly, input who much number run this code. And then print those number even or odd in a single line.
-*/
-
 #include<stdio.h>
 
 int main(){
