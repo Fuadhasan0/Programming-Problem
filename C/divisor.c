@@ -1,11 +1,3 @@
-/*
-Problem is ~
-
-   Firstly, input who much number run this code. And then print single line for single number and whole number who divisor for this number.
-
-
-*/
-
 #include<stdio.h>
 
 int main(){
